@@ -64,3 +64,9 @@ D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\Microsoft.As
 D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\AutoMapper.dll
 D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Solutions\MS\ConsoleToWebAppCore\BookStores.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
